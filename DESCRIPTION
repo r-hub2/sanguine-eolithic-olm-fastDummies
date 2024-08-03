@@ -20,7 +20,7 @@ Suggests: testthat (>= 2.1.0), knitr, rmarkdown, covr, spelling
 VignetteBuilder: knitr
 Language: en-US
 NeedsCompilation: no
-Packaged: 2024-08-03 14:57:53 UTC; jkkap
+Packaged: 2024-08-03 15:24:34 UTC; jkkap
 Author: Jacob Kaplan [aut, cre] (<https://orcid.org/0000-0002-0601-0387>),
   Benjamin Schlegel [ctb]
 Maintainer: Jacob Kaplan <jkkaplan6@gmail.com>
